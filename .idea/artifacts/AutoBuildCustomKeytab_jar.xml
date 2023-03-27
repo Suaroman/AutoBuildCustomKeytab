@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoBuildCustomKeytab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoBuildCustomKeytab_jar</output-path>
+    <root id="archive" name="AutoBuildCustomKeytab.jar">
+      <element id="module-output" name="AutoBuildCustomKeytab" />
+    </root>
+  </artifact>
+</component>
