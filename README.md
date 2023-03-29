@@ -28,6 +28,9 @@ most recent jar and copy it to the machine where you would like to generate the 
 Usage scenario below
 
 ```
+
+$ wget https://github.com/Suaroman/AutoBuildCustomKeytab/releases/download/prerelease/AutoBuildCustomKeytab.jar
+
 $ java -jar AutoBuildCustomKeytab.jar
 
 Enter principal name: alt-gregorys
